@@ -59,7 +59,7 @@ Get the respective RTL logic and Timing diagram.
 
 
 ### PROGRAM 
-/*
+
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Shobika P
@@ -98,7 +98,7 @@ and(Y3,I,S0,S1);
 endmodule
 
 ```
-*/
+
 
 
 
