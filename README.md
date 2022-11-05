@@ -126,11 +126,13 @@ endmodule
 
 
 # WHEN I1=1
-![image](https://user-images.githubusercontent.com/94508142/200124029-ac9f2664-271c-4a22-94e6-44e403fb138d.png)
+![im1](https://user-images.githubusercontent.com/94508142/200124443-60ba412b-dcd1-42c2-8543-03b4ff885ca4.png)
+
 
 
 # WHEN I2=1
-![Screenshot (185)](https://user-images.githubusercontent.com/94508142/200121613-97dce343-6a6d-43e7-bc17-b5eedd6b301f.png)
+![Screenshot 2022-11-05 194941](https://user-images.githubusercontent.com/94508142/200124480-ba342a0a-a761-4fe2-a590-4b4b22c34090.png)
+
 # WHEN I3=1
 ![Screenshot (189)](https://user-images.githubusercontent.com/94508142/200121714-9afeca5f-8c12-4a6c-8b04-47c82d63cff4.png)
 
