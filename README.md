@@ -107,6 +107,8 @@ endmodule
 
 ### RTL LOGIC  
 ## Multiplexer:
+![image](https://user-images.githubusercontent.com/94508142/200124531-5f68a0de-c95c-4d44-b532-be0763fb4a43.png)
+
 
 ## De-multiplexer:
 ![Screenshot (179)](https://user-images.githubusercontent.com/94508142/200121407-efb7eab6-027b-4af6-8f44-fbd80fe35133.png)
@@ -147,7 +149,9 @@ endmodule
 
 
 ### TRUTH TABLE 
+## Multiplexer:
 ![image](https://user-images.githubusercontent.com/94508142/200121878-af705daf-1e6d-4cf0-ad17-8dbe8f65fa6a.png)
+## Demultiplexer:
 ![image](https://user-images.githubusercontent.com/94508142/200121895-134b7f2b-2e02-4e78-890b-2aee710f4f3c.png)
 
 
