@@ -113,10 +113,13 @@ endmodule
 
 
 ### TIMING DIGRAMS  
-## Multiplexer:
+
 # Multiplexer WHEN I0=1
+![image](https://user-images.githubusercontent.com/94508142/200124065-bbac29ae-ac31-4110-b9aa-2bd4b48bf9b2.png)
+
 #WHEN I1=1
-![image](https://user-images.githubusercontent.com/94508142/200121677-72ea2a96-7022-4f50-b2e9-188b2c55007d.png)
+![image](https://user-images.githubusercontent.com/94508142/200124029-ac9f2664-271c-4a22-94e6-44e403fb138d.png)
+
 
 #WHEN I2=1
 ![Screenshot (185)](https://user-images.githubusercontent.com/94508142/200121613-97dce343-6a6d-43e7-bc17-b5eedd6b301f.png)
