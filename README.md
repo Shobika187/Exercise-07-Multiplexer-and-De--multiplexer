@@ -100,7 +100,7 @@ endmodule
 
 ### RTL LOGIC  
 ## Multiplexer:
-![Screenshot (178)](https://user-images.githubusercontent.com/94508142/200121375-6d56fadf-d991-49a0-ba0d-086555518d3f.png)
+
 ## De-multiplexer:
 ![Screenshot (179)](https://user-images.githubusercontent.com/94508142/200121407-efb7eab6-027b-4af6-8f44-fbd80fe35133.png)
 
@@ -115,7 +115,6 @@ endmodule
 ### TIMING DIGRAMS  
 ## Multiplexer:
 # Multiplexer WHEN I0=1
-![Screenshot (184)](https://user-images.githubusercontent.com/94508142/200121573-8024e3a4-4dd5-4967-bb0d-aa0fd3d05eaf.png)
 #WHEN I1=1
 ![image](https://user-images.githubusercontent.com/94508142/200121677-72ea2a96-7022-4f50-b2e9-188b2c55007d.png)
 
