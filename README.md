@@ -122,15 +122,16 @@ endmodule
 ### TIMING DIGRAMS  
 
 # Multiplexer WHEN I0=1
-![image](https://user-images.githubusercontent.com/94508142/200124065-bbac29ae-ac31-4110-b9aa-2bd4b48bf9b2.png)
+![image](https://user-images.githubusercontent.com/94508142/200124219-cc87cc76-1089-4f9e-b8c6-a372a474d6f3.png)
 
-#WHEN I1=1
+
+# WHEN I1=1
 ![image](https://user-images.githubusercontent.com/94508142/200124029-ac9f2664-271c-4a22-94e6-44e403fb138d.png)
 
 
-#WHEN I2=1
+# WHEN I2=1
 ![Screenshot (185)](https://user-images.githubusercontent.com/94508142/200121613-97dce343-6a6d-43e7-bc17-b5eedd6b301f.png)
-#WHEN I3=1
+# WHEN I3=1
 ![Screenshot (189)](https://user-images.githubusercontent.com/94508142/200121714-9afeca5f-8c12-4a6c-8b04-47c82d63cff4.png)
 
 ## Demultiplexer:
