@@ -47,7 +47,14 @@ If the control input changes to AB = 10, then all the gates are restricted excep
  
  
 ### Procedure
-/* write all the steps invloved */
+Step1:
+Give the multiple inputs and get 1 output for mux.
+
+Step2:
+Give a single input and get multiple poutputs i a de-mux.
+
+Step3:
+Get the respective RTL logic and Timing diagram.
 
 
 
